@@ -1,9 +1,9 @@
-<div align="center">
+<div align="justify">
 
 # 👋 Hi, I'm Gabriel
 
 Commercial Engineer (BBA) with a strong focus on business strategy, digital products and automation.  
-Currently building projects related to data, finance and process optimization.
+Currently building projects related to Frontend, apps, finance and process optimization.
 
 ---
 
@@ -31,13 +31,6 @@ Currently building projects related to data, finance and process optimization.
   <img src="https://img.shields.io/badge/GitHub-Projects-black?style=for-the-badge&logo=github">
 </a>
 
----
-
-### 📌 Featured Project
-
-<a href="https://github.com/GaboUDaza">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GaboUDaza&repo=money-conversor&theme=dark" />
-</a>
 
 </div>
 
